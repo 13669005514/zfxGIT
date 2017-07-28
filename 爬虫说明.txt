@@ -1,6 +1,0 @@
-目标网址：http://www.eshow365.com/
-目标数据：eshow网从2017-1 ~ 2017-12月所有国内展会信息数据，
-
-1，getHTMLText 获取这个网页的全部内容
-2.fillUnivList  获取我们所需要的数据
-3.main主函数
